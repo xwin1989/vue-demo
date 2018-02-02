@@ -1,6 +1,6 @@
 <template>
   <div>
-    <img src="/static/image/logo.png"/>
+    Logo:<img src="../assets/logo.png"/> photo:<img src="/static/photo.jpg"/>
     <h1>{{env}}</h1>
     <div class="article_list">
       <ul>

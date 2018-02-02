@@ -17,5 +17,5 @@
 </script>
 
 <style>
-  @import "/static/style/style.scss";
+  @import "./style/style.scss";
 </style>
